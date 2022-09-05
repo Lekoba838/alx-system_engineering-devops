@@ -1,4 +1,4 @@
 #!/bin/bash
 
-"(Ôo)'
-echo /etc/passwd
+echo "\"(Ôo)'"
+
