@@ -19,5 +19,4 @@
 | [0x01. User, Limit ](./1-user_limit.pp) | Changing the OS configuration so that it is possible to login with the holberton user and open a file without any error message. |
 
 ### Author
-
-**Joseph Mahiuha** - [Mahiuha](https:///github.com/Mahiuha)
+**Matlakala Lucia
